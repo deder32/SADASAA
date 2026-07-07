@@ -166,5 +166,26 @@
     "compressed_path": "c:\\xampp\\htdocs\\SADASA\\compressed\\05f93542_WhatsApp_Image_2026-07-07_at_13.40.50.jpeg.huffman",
     "original_hash": "951958529baf525f229c746084aca6cfa4fdc32af368721931c17c81197bc2c4",
     "sasada_score": 0
+  },
+  {
+    "id": "0e93f265",
+    "filename": "sample_640426.bmp",
+    "extension": ".bmp",
+    "original_size": 818058,
+    "original_size_str": "798.88 KB",
+    "compressed_size": 807113,
+    "compressed_size_str": "788.20 KB",
+    "algorithm": "HUFFMAN",
+    "compression_ratio": 98.66,
+    "space_saving": 1.34,
+    "is_lossless": true,
+    "timestamp": "2026-07-07T23:30:05.199090",
+    "lzw_size": 1074824,
+    "lzw_lossless": true,
+    "huffman_size": 807113,
+    "huffman_lossless": true,
+    "compressed_path": "c:\\xampp\\htdocs\\SADASA\\compressed\\0e93f265_sample_640426.bmp.huffman",
+    "original_hash": "34a7d53b4077db9099a0a487e80314a3e25dc8a10f618df7ed2c360a3d74f3a6",
+    "sasada_score": 0
   }
 ]
